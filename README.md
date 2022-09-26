@@ -1,16 +1,43 @@
-### Hi there 👋
+<h1> Olá, pessoal 👋 </h1>
 
-<!--
-**LuizG-cmd/LuizG-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Sejam bem vindos </h2>
 
-Here are some ideas to get you started:
+Me chamo Luiz Guilherme, mas se preferir pode me chamar de L.G 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+- 🔭 Atualmente estou trabalhando como CONTROLADOR DE PROCESSOS, mas nunca parado com relação ao desenvolvimento, quando posso dou uma passadinha por aqui e subo minhas atualizações 😏
+-  📫 Você pode me encontrar no endereço de e-mail guilhermeohtek68@gmail.com, vou deixar aqui meu Whatsapp também +55 11 97741-9385, fique à vontade.
+  
+## Ferramentas e Tecnologias
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
+</div>
+
+## Estou aprendendo
+
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
+</div>
+  
+## Contatos:
+
+<div>
+<a href = "mailto:guilhermeohtek68@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://instagram.com/lgdsilva__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+##
+
+<div>
+<a href="https://github.com/LuizG-cmd">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizG-cmd&layout=compact&langs_count=7&theme=onedark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizG-cmd&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+</div>
+
+
