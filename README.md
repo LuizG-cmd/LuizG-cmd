@@ -2,7 +2,7 @@
 
 <h2> Sejam bem vindos </h2>
 
-Me chamo Luiz Guilherme, mas se preferir pode me chamar de L.G 😄
+Sou o Luiz Guilherme, mas se preferir pode me chamar de L.G 😄
 
 ##
 
