@@ -6,7 +6,7 @@ Sou o Luiz Guilherme, mas se preferir pode me chamar de L.G 😄
 
 ##
 
-- 🔭 Atualmente estou trabalhando como CONTROLADOR DE PROCESSOS, mas nunca parado com relação ao desenvolvimento, quando posso dou uma passadinha por aqui e subo minhas atualizações 😏
+- 🔭 Atualmente estou trabalhando como ANALISTA DE PROCESSOS, mas nunca parado com relação ao desenvolvimento, quando posso dou uma passadinha por aqui e subo minhas atualizações 😏
 -  📫 Você pode me encontrar no endereço de e-mail guilhermeohtek68@gmail.com, vou deixar aqui meu Whatsapp também +55 11 97741-9385, fique à vontade.
   
 ## Ferramentas e Tecnologias
@@ -16,6 +16,7 @@ Sou o Luiz Guilherme, mas se preferir pode me chamar de L.G 😄
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=all" width="40" height="40" />
 </div>
 
 ## Estou aprendendo
@@ -31,8 +32,8 @@ Sou o Luiz Guilherme, mas se preferir pode me chamar de L.G 😄
 
 <div>
 <a href = "mailto:guilhermeohtek68@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="https://instagram.com/lgdsilva__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/luiz-guilherme-a85174115/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://instagram.com/lgsilva__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 ##
