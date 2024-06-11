@@ -12,7 +12,7 @@ Sou o Luiz Guilherme, mas se preferir pode me chamar de L.G 😄
 ## Ferramentas e Tecnologias
 
 <div>
-<img src="https://skillicons.dev/icons?i=node,postgres,ts,javascript,mongodb,bootstrap,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,ts,javascript,mongodb,bootstrap,prisma,npm" />
 </div>
 
 ## Estou aprendendo
