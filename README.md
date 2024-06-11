@@ -12,16 +12,13 @@ Sou o Luiz Guilherme, mas se preferir pode me chamar de L.G 😄
 ## Ferramentas e Tecnologias
 
 <div>
-<img src="https://skillicons.dev/icons?i=node,postgres,typescript,javascript,mongodb" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=node,postgres,ts,javascript,mongodb,bootstrap,prisma" />
 </div>
 
 ## Estou aprendendo
 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=react,nestjs" />
 </div>
   
 ## Contatos:
