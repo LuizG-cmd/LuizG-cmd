@@ -7,7 +7,7 @@ Sou o Luiz Guilherme, mas se preferir pode me chamar de L.G 😄
 ##
 
 - 🔭 Atualmente estou trabalhando como ANALISTA DE PROCESSOS, mas nunca parado com relação ao desenvolvimento, quando posso dou uma passadinha por aqui e subo minhas atualizações 😏
--  📫 Você pode me encontrar no endereço de e-mail guilhermeohtek68@gmail.com, vou deixar aqui meu Whatsapp também +55 11 97741-9385, fique à vontade.
+-  📫 Você pode me encontrar no endereço de e-mail devluizg@outlook.com.br, vou deixar aqui meu Whatsapp também +55 11 97741-9385, fique à vontade.
   
 ## Ferramentas e Tecnologias
 
