@@ -6,19 +6,19 @@ Sou o Luiz Guilherme, mas se preferir pode me chamar de L.G 😄
 
 ##
 
-- 🔭 Atualmente estou trabalhando como ANALISTA DE PROCESSOS, mas nunca parado com relação ao desenvolvimento, quando posso dou uma passadinha por aqui e subo minhas atualizações 😏
+- 🔭 Atualmente estou livre para atuar no mercado de tecnologia, apenas estudando por conta própria e tentando botar em prática com projetos pessoais, tento sempre subir novas atualizações aqui via alguns repositórios para que vocês possam acompanhar minha evolução e do meu código 😏
 -  📫 Você pode me encontrar no endereço de e-mail devluizg@outlook.com.br, vou deixar aqui meu Whatsapp também +55 11 97741-9385, fique à vontade.
   
 ## Ferramentas e Tecnologias
 
 <div>
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,ts,javascript,mongodb,bootstrap,prisma,npm,html,css" />
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,ts,javascript,mongodb,bootstrap,prisma,npm,html,css,drizzle,nestjs,docker" />
 </div>
 
 ## Estou aprendendo
 
 <div>
-<img src="https://skillicons.dev/icons?i=react,nestjs,redis,vitest" />
+<img src="https://skillicons.dev/icons?i=react,rabbitmq,redis,vitest" />
 </div>
   
 ## Contatos:
