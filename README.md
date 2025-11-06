@@ -2,32 +2,42 @@
   
 # 👋 Olá, pessoal!
 
-### Sejam bem-vindos ao meu perfil
-
-</div>
-
-<div>
-  <img align="right" alt="Developer" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
 
 ## 🚀 Sobre mim
 
-Sou o **Luiz Guilherme**, mas se preferir pode me chamar de **L.G** 😄
+<div>
+  <div>
+    <img alt="Developer" align="right" width="280" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  </div>
 
-- 🔭 Atualmente estou livre para atuar no mercado de tecnologia
-- 📚 Estudando por conta própria e desenvolvendo projetos pessoais
-- 💻 Sempre atualizando meus repositórios para você acompanhar minha evolução
-- 🎯 Focado em aprimorar minhas habilidades e criar código de qualidade
+  <div>
+    
+  Sou o **Luiz Guilherme**, mas se preferir pode me chamar de **L.G** 😄
+  
+  - 🔭 Atualmente estou livre para atuar no mercado de tecnologia
+  - 📚 Estudando por conta própria e desenvolvendo projetos pessoais
+  - 💻 Sempre atualizando meus repositórios para você acompanhar minha evolução
+  - 🎯 Focado em aprimorar minhas habilidades e criar código de qualidade
+  
+  </div>
+</div>
 
-<br clear="right"/>
+<br><br>
 
 ## 📫 Entre em contato
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-devluizg@outlook.com.br-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:devluizg@outlook.com.br)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+55_11_97741--9385-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511977419385)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz_Guilherme-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-guilherme-a85174115/)
 
 ---
+<br>
+
+</div>
+
 
 ## 🛠️ Ferramentas e Tecnologias
 
@@ -46,7 +56,6 @@ Sou o **Luiz Guilherme**, mas se preferir pode me chamar de **L.G** 😄
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
@@ -62,6 +71,7 @@ Sou o **Luiz Guilherme**, mas se preferir pode me chamar de **L.G** 😄
 </div>
 
 ---
+<br>
 
 ## 🎯 Meus Projetos
 
