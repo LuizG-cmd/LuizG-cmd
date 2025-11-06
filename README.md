@@ -80,8 +80,8 @@
 | 💼 Portfolio | 🏗️ Landing Page |
 |:---:|:---:|
 | [![Portfolio](https://img.shields.io/badge/Ver_Projeto-4A90E2?style=for-the-badge)](https://portfolio-luizg.vercel.app) | [![Casa Amarela](https://img.shields.io/badge/Ver_Projeto-FF9500?style=for-the-badge)](https://casa-amarela.vercel.app/) |
-| **📊 API Financeira** | |
-| [![APROVEME](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/LuizG-cmd/aproveme) | |
+| **📊 API Financeira** |  **🤖 Discord Bot** |
+| [![APROVEME](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/LuizG-cmd/aproveme) | [![APROVEME](https://img.shields.io/badge/Ver_Repositório-181717?style=for-the-badge&logo=github)](https://github.com/LuizG-cmd/discordbot) |
 
 </div>
 
